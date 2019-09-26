@@ -3,7 +3,8 @@
 Requirements
 * linux box
 * Python 2.6 or higher
-* [paramiko](http://www.lag.net/paramiko/) library
+* [paramiko](http://www.lag.net/paramiko/) library 
+* https://github.com/paramiko/paramiko
 * Create/Commit rights to a CVS or Subversion repository
 * cvs or svn binaries in the PATH
 
